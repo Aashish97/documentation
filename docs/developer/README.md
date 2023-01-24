@@ -1,1 +1,2 @@
-## Developer Documentation
+## [Installation](installation.md)
+## [Setup](setup.md)

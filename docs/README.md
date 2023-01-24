@@ -1,2 +1,2 @@
-## [developer](developer/README)
-## [devOps](devOps/README)
+## [developer](developer/)
+## [devOps](devOps/)
